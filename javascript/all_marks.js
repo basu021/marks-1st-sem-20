@@ -34,7 +34,7 @@ const dataSource = {
         subcaption: "(1st sem 2020)",
         numberprefix: "M-",
         numbersuffix: "",
-        plottooltext: "Mark of $seriesName in $label is <b>$dataValue</b>",
+        plottooltext: "$seriesName",
         showhovereffect: "1",
         yaxisname: "Marks chart",
         showsum: "1",
@@ -108,7 +108,7 @@ const dataSource = {
                 label: "Prince-23"
             },
             {
-                label: "Rakshi-25"
+                label: "<a href='./students/rakshi/index.html'>Rakshi-25</a>"
             },
             {
                 label: "Rashmipriya-26"
@@ -182,11 +182,119 @@ const dataSource = {
                 },
                 {
                     value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
                 }
             ]
         },
         {
-            seriesname: "<=50 %",
+            seriesname: "Pass Mark < Mark <= 50%",
             data: [{
                     value: "75"
                 },
@@ -201,11 +309,126 @@ const dataSource = {
                 },
                 {
                     value: "75"
-                }
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                    
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "46"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },  
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
             ]
         },
         {
-            seriesname: "<=80 %",
+            seriesname: "50% < Mark <= 80%",
             data: [{
                     value: "225"
                 },
@@ -213,18 +436,130 @@ const dataSource = {
                     value: "176"
                 },
                 {
-                    value: "225"
+                    value: "196"
                 },
                 {
-                    value: "225"
+                    value: "220"
                 },
                 {
-                    value: "225"
-                }
+                    value: "76"
+                },
+                {
+                    value: "87"
+                },
+                { 
+                    value: "71" 
+                },
+                {
+                    value: "175"
+
+                },
+                {
+                    value: "151"
+                },
+                {
+                    value: "144"
+                },
+                {
+                    value: "79"
+                },
+                {
+                    value: "191"
+                },
+                {
+                    value: "110"
+                },
+                {
+                    value: "91"
+                },
+                {
+                    value: "102"
+                },
+                {
+                    value: "160"
+                },
+                {
+                    value: "108"
+                },
+                {
+                    value: "135"
+                },
+                {
+                    value: "136"
+                },
+                {
+                    value: "108"
+                },
+                {
+                    value: "54"
+                },
+                {
+                    value: "147"
+                },
+                {
+                    value: "154"
+                },
+                {
+                    value: "82"
+                },
+                {
+                    value: "141"
+                },
+                {
+                    value: "0"
+                },
+                {
+                    value: "40"
+                },
+                {
+                    value: "55"
+                },
+                {
+                    value: "193"
+                },
+                {
+                    value: "55"
+                },
+                {
+                    value: "76"
+                },
+                {
+                    value: "110"
+                },
+                {
+                    value: "93"
+                },
+                {
+                    value: "120"
+                },
+                {
+                    value: "61"
+                },
+                {
+                    value: "182"
+                },
+                {
+                    value: "170"
+                },
+                {
+                    value: "120"
+                },
+                {
+                    value: "138"
+                },
+                {
+                    value: "76"
+                },
+                {
+                    value: "159"
+                },
+                    
+
+
             ]
         },
         {
-            seriesname: "<=100 %",
+            seriesname: "80% < Mark <=100 %",
             data: [{
                     value: "150"
                 },
@@ -232,19 +567,19 @@ const dataSource = {
                     value: "0"
                 },
                 {
-                    value: "150"
+                    value: "0"
                 },
                 {
-                    value: "150"
+                    value: "0"
                 },
                 {
-                    value: "150"
+                    value: "0"
                 }
             ]
         },
         {
             seriesname: "Secured Marks",
-            plottooltext: "Total Mark of $label <b>$dataValue</b>",
+            plottooltext: "Mark of $label <b>$dataValue</b>",
             renderas: "Line",
             data: [{
                     value: "750"
