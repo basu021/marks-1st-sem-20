@@ -60,46 +60,46 @@ const dataSource = {
                 label: "<a href='./students/akankshya/index.html'>Akankshya-05</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Akankshyap-06</a>"
+                label: "<a href='./students/akankshya-p/index.html'>Akankshyap-06</a>"   
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Ankita-07</a>"
+                label: "<a href='./students/ankita/index.html'>Ankita-07</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Arpitac-08</a>"
+                label: "<a href='./students/arpit-c/index.html'>Arpitac-08</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Arpita-09</a>"
+                label: "<a href='./students/arpita/index.html'>Arpita-09</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Baisahkhi-10</a>"
+                label: "<a href='./students/baishakhi/index.html'>Baisahkhi-10</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Bikash-12</a>"
+                label: "<a href='./students/bikash/index.html'>Bikash-12</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>D.Mrutyunjay-13</a>"
+                label: "<a href='./students/d-mrutyunjay/index.html'>D.Mrutyunjay-13</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Hemangini-14</a>"
+                label: "<a href='./students/hemangini/index.html'>Hemangini-14</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Jasasmita-15</a>"
+                label: "<a href='./students/jasasmita/index.html'>Jasasmita-15</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Lopita-17</a>"
+                label: "<a href='./students/lopita/index.html'>Lopita-17</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Madhusmita-</a>"
+                label: "<a href='./students/madhusmita/index.html'>Madhusmita-</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Manisha-19</a>"
+                label: "<a href='./students/manisha/index.html'>Manisha-19</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Prajyot-20</a>"
+                label: "<a href='./students/projyot/index.html'>Prajyot-20</a>"
             },
             {
-                label: "<a href='./students/pratyush/index.html'>Prateek-21</a>"
+                label: "<a href='./students/prateek/index.html'>Prateek-21</a>"
             },
             {
                 label: "<a href='./students/pratyush/index.html'>Pratyush-22</a>"
