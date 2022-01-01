@@ -117,52 +117,52 @@ const dataSource = {
                 label: "<a href='./students/rupali/index.html'>Rupali-27</a>"
             },
             {
-                label: "Sagar-28"
+                label: "<a href='./students/sagar/index.html'>Sagar-28</a>"
             },
             {
-                label: "Samikshya-30"
+                label: "<a href='./students/rupali/index.html'>Samikshya-30</a>"
             },
             {
-                label: "Sangram-31"
+                label: "<a href='./students/rupali/index.html'>Sangram-31</a>"
             },
             {
-                label: "Sanjit-33"
+                label: "<a href='./students/sanjit/index.html'>Sanjit-33</a>"
             },
             {
-                label: "Sankarsan-34"
+                label: "<a href='./students/sankarsan/index.html'>Sankarsan-34</a>"
             },
             {
-                label: "Sanket-35"
+                label: "<a href='./students/sanket/index.html'>Sanket-35</a>"
             },
             {
-                label: "Shiba-36"
+                label: "<a href='./students/shiba-prasad/index.html'>Shiba-36</a>"
             },
             {
-                label: "Shubham-37"
+                label: "<a href='./students/shubham/index.html'>Shubham-37</a>"
             },
             {
-                label: "Sonali-38"
+                label: "<a href='./students/sonali/index.html'>Sonali-38</a>"
             },
             {
-                label: "Srusti-39"
+                label: "<a href='./students/srusti/index.html'>Srusti-39</a>"
             },
             {
-                label: "Stitepragyan-40"
+                label: "<a href='./students/stitee/index.html'>Stitepragyan-40</a>"
             },
             {
-                label: "Subhalaxmi-41"
+                label: "<a href='./students/subhalaxmi/index.html'>Subhalaxmi-41</a>"
             },
             {
-                label: "Subhashree-42"
+                label: "<a href='./students/subhashree/index.html'>Subhashree-42</a>"
             },
             {
-                label: "Sumit-43"
+                label: "<a href='./students/sumit/index.html'>Sumit-43</a>"
             },
             {
-                label: "Suraj-44"
+                label: "<a href='./students/suraj/index.html'>Suraj-44</a>"
             },
             {
-                label: "Swapnajit-45"
+                label: "<a href='./students/swapnajit/index.html'>Swapnajit-45</a>"
             }
         ]
     }],
