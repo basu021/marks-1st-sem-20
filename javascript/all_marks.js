@@ -1,3 +1,32 @@
+// 551		
+// 571		
+// 595		
+// 451		
+// 462		
+// 446		
+// 550		
+// 526		
+// 519		
+// 454		
+// 566		
+// 485		
+// 466		
+// 477		
+// 535		
+// 483		
+// 510		
+// 511		
+// 483		
+// 429		
+// 522		
+// 529		
+// 457		
+// 516		
+// 346		
+// 415		
+
+
+
 const dataSource = {
     chart: {
         showvalues: "0",
@@ -28,7 +57,112 @@ const dataSource = {
                 label: "Afrid-04"
             },
             {
-
+                label: "Akankshya-05"
+            },
+            {
+                label: "Akankshyap-06"
+            },
+            {
+                label: "Ankita-07"
+            },
+            {
+                label: "Arpitac-08"
+            },
+            {
+                label: "Arpita-09"
+            },
+            {
+                label: "Baisahkhi-10"
+            },
+            {
+                label: "Bikash-12"
+            },
+            {
+                label: "D.Mrutyunjay-13"
+            },
+            {
+                label: "Hemangini-14"
+            },
+            {
+                label: "Jasasmita-15"
+            },
+            {
+                label: "Lopita-17"
+            },
+            {
+                label: "Madhusmita-18"
+            },
+            {
+                label: "Manisha-19"
+            },
+            {
+                label: "Prajyot-20"
+            },
+            {
+                label: "Prateek-21"
+            },
+            {
+                label: "Pratyush-22"
+            },
+            {
+                label: "Prince-23"
+            },
+            {
+                label: "Rakshi-25"
+            },
+            {
+                label: "Rashmipriya-26"
+            },
+            {
+                label: "Rupali-27"
+            },
+            {
+                label: "Sagar-28"
+            },
+            {
+                label: "Samikshya-30"
+            },
+            {
+                label: "Sangram-31"
+            },
+            {
+                label: "Sanjit-33"
+            },
+            {
+                label: "Sankarsan-34"
+            },
+            {
+                label: "Sanket-35"
+            },
+            {
+                label: "Shiba-36"
+            },
+            {
+                label: "Shubham-37"
+            },
+            {
+                label: "Sonali-38"
+            },
+            {
+                label: "Srusti-39"
+            },
+            {
+                label: "Stitepragyan-40"
+            },
+            {
+                label: "Subhalaxmi-41"
+            },
+            {
+                label: "Subhashree-42"
+            },
+            {
+                label: "Sumit-43"
+            },
+            {
+                label: "Suraj-44"
+            },
+            {
+                label: "Swapnajit-45"
             }
         ]
     }],
@@ -116,16 +250,124 @@ const dataSource = {
                     value: "750"
                 },
                 {
-                    value: "551"
+                    value: "551" // mark of abhisek-01
                 },
                 {
-                    value: "571"
+                    value: "571" // mark of abhisek-02
                 },
                 {
-                    value: "595"
+                    value: "595" // mark of abinash-03
                 },
                 {
-                    value: "451"
+                    value: "451" // mark of afrid-04
+                },
+                {
+                    value: "462" // mark of akankshya-05
+                },
+                {
+                    value: "446" // mark of akankshyap-06
+                },
+                {
+                    value: "550" // mark of ankita-07
+                },
+                {
+                    value: "526" // mark of arpitac-08
+                },
+                {
+                    value: "519" // mark of arpita-09
+                },
+                {
+                    value: "454" // mark of baisahkhi-10
+                },
+                {
+                    value: "566" // mark of bikash-12
+                },
+                {
+                    value: "485" // mark of d.mrutyunjay-13
+                },
+                {
+                    value: "466" // mark of hemangini-14
+                },
+                {
+                    value: "477" // mark of jasasmita-15
+                },
+                {
+                    value: "535" // mark of lopita-17
+                },
+                {
+                    value: "483" // mark of madhusmita-18
+                },
+                {
+                    value: "510" // mark of manisha-19
+                },
+                {
+                    value: "511" // mark of prajyot-20
+                },
+                {
+                    value: "483" // mark of prateek-21
+                },
+                {
+                    value: "429" // mark of pratyush-22
+                },
+                {
+                    value: "522" // mark of prince-23
+                },
+                {
+                    value: "529" // mark of rakshi-25
+                },
+                {
+                    value: "457" // mark of rashmipriya-26
+                },
+                {
+                    value: "516" // mark of rupali-27
+                },
+                {
+                    value: "346" // mark of sagar-28
+                },
+                {
+                    value: "415" // mark of samikshya-30
+                },
+                {
+                    value: "430" // mark of sangram-31
+                },
+                {
+                    value: "568" // mark of sanjit-33
+                },
+                {
+                    value: "430" // mark of sankarsan-34
+                },
+                {
+                    value: "451" // mark of sanket-35
+                },
+                {
+                    value: "485" // mark of shiba-36
+                },
+                {
+                    value: "468" // mark of shubham-37
+                },
+                {
+                    value: "495" // mark of sonali-38
+                },
+                {
+                    value: "436" // mark of srusti-39
+                },
+                {
+                    value: "557" // mark of stitepragyan-40
+                },
+                {
+                    value: "545" // mark of subhalaxmi-41
+                },
+                {
+                    value: "495" // mark of subhashree-42
+                },
+                {
+                    value: "513" // mark of sumit-43
+                },
+                {
+                    value: "451" // mark of suraj-44
+                },
+                {
+                    value: "534" // mark of swapnajit-45
                 }
             ]
         }
@@ -136,8 +378,8 @@ FusionCharts.ready(function() {
     var myChart = new FusionCharts({
         type: "stackedcolumn2dline",
         renderAt: "chart-container",
-        width: "600",
-        height: "400",
+        width: "250%",
+        height: "800",
         dataFormat: "json",
         dataSource
     }).render();
