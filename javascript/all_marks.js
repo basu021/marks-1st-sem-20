@@ -1,132 +1,144 @@
 const dataSource = {
-  chart: {
-    showvalues: "0",
-    caption: "Apple's Revenue & Profit",
-    subcaption: "(2013-2016)",
-    numberprefix: "$",
-    numbersuffix: "B",
-    plottooltext: "Sales of $seriesName in $label was <b>$dataValue</b>",
-    showhovereffect: "1",
-    yaxisname: "$ (In billions)",
-    showsum: "1",
-    theme: "fusion"
-  },
-  categories: [
-    {
-      category: [
-        {
-          label: "2013"
-        },
-        {
-          label: "2014"
-        },
-        {
-          label: "2015"
-        },
-        {
-          label: "2016"
-        }
-      ]
-    }
-  ],
-  dataset: [
-    {
-      seriesname: "iPhone",
-      data: [
-        {
-          value: "21"
-        },
-        {
-          value: "24"
-        },
-        {
-          value: "27"
-        },
-        {
-          value: "30"
-        }
-      ]
+    chart: {
+        showvalues: "0",
+        caption: "Mark of all Students",
+        subcaption: "(1st sem 2020)",
+        numberprefix: "M-",
+        numbersuffix: "",
+        plottooltext: "Mark of $seriesName in $label is <b>$dataValue</b>",
+        showhovereffect: "1",
+        yaxisname: "Marks chart",
+        showsum: "1",
+        theme: "fusion"
     },
-    {
-      seriesname: "iPad",
-      data: [
-        {
-          value: "8"
+    categories: [{
+        category: [{
+                label: "Demo"
+            },
+            {
+                label: "Abhisek-01"
+            },
+            {
+                label: "Abhisek-02"
+            },
+            {
+                label: "Abinash-03"
+            },
+            {
+                label: "Afrid-04"
+            },
+            {
+
+            }
+        ]
+    }],
+    dataset: [{
+            seriesname: "Pass marks",
+            data: [{
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                },
+                {
+                    value: "300"
+                }
+            ]
         },
         {
-          value: "10"
+            seriesname: "<=50 %",
+            data: [{
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                },
+                {
+                    value: "75"
+                }
+            ]
         },
         {
-          value: "11"
+            seriesname: "<=80 %",
+            data: [{
+                    value: "225"
+                },
+                {
+                    value: "176"
+                },
+                {
+                    value: "225"
+                },
+                {
+                    value: "225"
+                },
+                {
+                    value: "225"
+                }
+            ]
         },
         {
-          value: "12"
+            seriesname: "<=100 %",
+            data: [{
+                    value: "150"
+                },
+                {
+                    value: "0"
+                },
+                {
+                    value: "150"
+                },
+                {
+                    value: "150"
+                },
+                {
+                    value: "150"
+                }
+            ]
+        },
+        {
+            seriesname: "Secured Marks",
+            plottooltext: "Total Mark of $label <b>$dataValue</b>",
+            renderas: "Line",
+            data: [{
+                    value: "750"
+                },
+                {
+                    value: "551"
+                },
+                {
+                    value: "571"
+                },
+                {
+                    value: "595"
+                },
+                {
+                    value: "451"
+                }
+            ]
         }
-      ]
-    },
-    {
-      seriesname: "Macbooks",
-      data: [
-        {
-          value: "2"
-        },
-        {
-          value: "4"
-        },
-        {
-          value: "5"
-        },
-        {
-          value: "5.5"
-        }
-      ]
-    },
-    {
-      seriesname: "Others",
-      data: [
-        {
-          value: "2"
-        },
-        {
-          value: "4"
-        },
-        {
-          value: "9"
-        },
-        {
-          value: "11"
-        }
-      ]
-    },
-    {
-      seriesname: "Profit",
-      plottooltext: "Total profit in $label was <b>$dataValue</b>",
-      renderas: "Line",
-      data: [
-        {
-          value: "17"
-        },
-        {
-          value: "19"
-        },
-        {
-          value: "13"
-        },
-        {
-          value: "18"
-        }
-      ]
-    }
-  ]
+    ]
 };
 
 FusionCharts.ready(function() {
-  var myChart = new FusionCharts({
-    type: "stackedcolumn2dline",
-    renderAt: "chart-container",
-    width: "100%",
-    height: "100%",
-    dataFormat: "json",
-    dataSource
-  }).render();
+    var myChart = new FusionCharts({
+        type: "stackedcolumn2dline",
+        renderAt: "chart-container",
+        width: "600",
+        height: "400",
+        dataFormat: "json",
+        dataSource
+    }).render();
 });
